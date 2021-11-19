@@ -114,7 +114,7 @@ Heart disease app was created with SwiftUI, uses a Core ML model trained with ka
 
 <div style="padding-top: 20px; padding-bottom: 20px;">
 
-<img style="float: left; padding-right: 40px;" src="images/bloguikit/be1.png" width="250">
+<img style="float: left; padding-right: 40px;" src="images/bloguikit/Be1.png" width="250">
 
 <img style="float: left; padding-right: 40px;" src="images/bloguikit/be2.png" width="250">
 
