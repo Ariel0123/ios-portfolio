@@ -55,7 +55,7 @@ This note app was created with SwiftUI, you can create a note, edit note, delete
 
 ---
 
-## Blog App
+## Blog App SwiftUI
 
 <div style="padding-top: 20px; padding-bottom: 20px; ">
 
@@ -109,4 +109,23 @@ Heart disease app was created with SwiftUI, uses a Core ML model trained with ka
 <a href="https://github.com/Ariel0123/HeartDiseaseApp">Go to GitHub Repository</a>
 
 ---
+
+## Blog App UIKit
+
+<div style="padding-top: 20px; padding-bottom: 20px;">
+
+<img style="float: left; padding-right: 40px;" src="images/bloguikit/be1.png" width="250">
+
+<img style="float: left; padding-right: 40px;" src="images/bloguikit/be2.png" width="250">
+
+<img  src="images/bloguikit/be3.png" width="250">
+
+</div>
+
+This blog app was created with Swift UIKit, you can create posts.
+
+<a href="https://github.com/Ariel0123/blog_UIKit">Go to GitHub Repository</a>
+
+---
+
 
